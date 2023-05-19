@@ -1,0 +1,24 @@
+img {
+    max-width: 150px;
+    height: auto;
+    float: left;
+    margin-right: 10px;
+  }
+  
+  p {
+    text-align: justify;
+  }
+  
+  dl {
+    font-size: 1.15em;
+  }
+  
+  dt {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  dd {
+    margin-left: 0;
+    margin-bottom: 10px;
+  }
